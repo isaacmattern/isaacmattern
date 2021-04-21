@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @isaacmattern
+- 👀 I’m interested in Web Development, Artificial Intelligence, and desktop application development
+- 📚 I’m currently learning Ruby on Rails 
+- 📫 You can reach me at isaac(dot)mattern @ gmail.com
+- Check out my portfolio website and resume at http://isaacmattern.com
