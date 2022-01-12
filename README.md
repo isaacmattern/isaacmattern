@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaacmattern
 - 👀 I’m interested in Web Development, Artificial Intelligence, and Software Engineering
-- 📚 I’m currently learning SQL, JavaScript, and Python
+- 📚 I’m currently learning JavaScript, Python, and Agile software development, and I study at The Ohio State University
 - 📫 You can reach me at isaac(dot)mattern @ gmail.com
 - Check out my portfolio website and resume at http://isaacmattern.com
