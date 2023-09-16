@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @isaacmattern
-- 👀 I’m interested in Web Development, Artificial Intelligence, and Software Engineering
 - 📚 I’m currently learning React.js and Python
 - 📫 You can reach me at isaac(dot)mattern @ gmail.com
-- ➡️ Check out my portfolio website and resume at http://isaacmattern.com
+- ➡️ Check out my portfolio website and resume at https://isaacmattern.com
