@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @isaacmattern
-- 📚 I’m currently learning React.js and Python
+- 📚 I’m currently learning React.js & Python
 - 📫 You can reach me at isaac(dot)mattern @ gmail.com
-- ➡️ Check out my portfolio website and resume at https://isaacmattern.com
+- ➡️ Check out my portfolio website and blog at https://isaacmattern.com
